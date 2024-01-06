@@ -7,7 +7,7 @@ subtitle: Here is the Resume
 <div id="resume-pdf" class="base">
   <object data="{{ site.baseurl }}/CV/XinyiChenResume.pdf" width="100%" height="800" type="application/pdf">
     <embed src="{{ site.baseurl }}/CV/XinyiChenResume.pdf" type='application/pdf'>
-      Unable to display - <a href="{{ site.baseurl }}/CV/XinyiChenResume.pdf">Download</a>
+        Unable to display - <a href="{{ site.baseurl }}/CV/XinyiChenResume.pdf">Download</a>
     </embed>
   </object>
 </div>
