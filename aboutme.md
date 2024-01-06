@@ -14,7 +14,7 @@ My name is **Xinyi Chen**. I have the following qualities:
 
 4. My diverse background encompasses impactful experiences across various facets of the gaming industry. Engaging in augmented reality projects, I navigated the forefront of immersive technologies, contributing to innovative and interactive experiences. My foray into game marketing research equipped me with insights into effective strategies to captivate audiences and enhance user engagement. In quality assurance for games, I meticulously ensured seamless gameplay experiences, refining my attention to detail and commitment to delivering polished products. My involvement in game design projects allowed me to blend creativity with technical expertise, crafting engaging narratives and gameplay mechanics. This multifaceted journey reflects my comprehensive skill set and passion for advancing the gaming landscape.
 
-### My story
+
 
 Supporting <span style="color:red">L</span><span style="color:orange">G</span><span style="color:yellow">B</span><span style="color:green">T</span><span style="color:blue">Q</span><span style="color:purple">+</span> communities
 
