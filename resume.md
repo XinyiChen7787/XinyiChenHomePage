@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: Here is the Resume
+subtitle: Here is my Resume
 ---
 
 <div id="resume-pdf" class="base">
